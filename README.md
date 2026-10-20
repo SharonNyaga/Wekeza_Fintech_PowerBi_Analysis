@@ -34,7 +34,7 @@ I set up relationships between customers, counties, transactions, loans, loan pr
 ![Customer and Geographical Insights](outputs/customer_geographical_distribution.png)
 
 ### County Performance Detail
-![County Performance Detail](outputs/county_drillthrough.png)
+![County Performance Detail](outputs/county_drilthrough.png)
 
 ### Customer and Loan Detail
 ![Customer and Loan Detail](outputs/customer_loans_drillthrough.png)
