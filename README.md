@@ -22,22 +22,22 @@ I set up relationships between customers, counties, transactions, loans, loan pr
 ## Dashboard
 
 ### Executive Summary
-![Executive Summary]("outputs\executive_summary.png")
+![Executive Summary](outputs/executive_summary.png)
 
 ### Transactions and Digital Channels
-![Transactions and Digital Channels]("outputs\transactions_and_digital_channels.png")
+![Transactions and Digital Channels](outputs/transactions_and_digital_channels.png)
 
 ### Lending and Repayment
-![Lending and Repayment](outputs\lending_and_repayment.png")
+![Lending and Repayment](outputs/lending_and_repayment.png)
 
 ### Customer and Geographical Insights
-![Customer and Geographical Insights]("outputs\customer_geographical_distribution.png")
+![Customer and Geographical Insights](outputs/customer_geographical_distribution.png)
 
 ### County Performance Detail
-![County Performance Detail]("outputs\county_drilthrough.png")
+![County Performance Detail](outputs/county_drillthrough.png)
 
 ### Customer and Loan Detail
-![Customer and Loan Detail]("outputs\customer_loans_drillthrough.png")
+![Customer and Loan Detail](outputs/customer_loans_drillthrough.png)
 
 The report includes KPI cards, trend charts, channel and product comparisons, customer and county analysis, slicers, and drill-through pages for county and customer-level investigation.
 
